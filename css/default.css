@@ -53,3 +53,10 @@ dt{
 .btn-reset {
   background-color: blue;
 }
+
+#ingredient{
+  border: 2px solid #341708;
+}
+th,td{
+  border: 1px solid #DEA584;
+}
