@@ -18,3 +18,12 @@ body{
   clear: both;
   display: block;
 }
+.explanation{
+  float: left;
+}
+
+dt{
+  clear: left;
+  clear: left;
+  font-weight: bold;
+}
